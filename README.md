@@ -4,8 +4,10 @@
  
  The course broadly consists of 4 major assignments </br>
  
+ ### Language Used ### </br>
+ C++
  
- #### Homework 1 ####
  
+ #### Homework 1 - Basic Image Manipulation ####
  
  
