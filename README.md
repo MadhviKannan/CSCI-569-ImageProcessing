@@ -12,5 +12,8 @@
  This assignment is subdivided into 3 parts- </br>
   1. Basic Image Manipulation - </br>
       a. Mirroring, Resizing and Image Composition </br>
+  2. Color Space Transformation - </br>
+      Converting RGB to HSL and CYM color spaces. Implemented the Sepia filter on a sample image and performed layer blending on given sample image </br>
+      
      
        
