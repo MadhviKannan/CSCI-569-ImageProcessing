@@ -9,5 +9,8 @@
  
  
  #### Homework 1 - Basic Image Manipulation
- 
+ This assignment is subdivided into 3 parts- </br>
+  1. Basic Image Manipulation -
+      a. Mirroring, Resizing and Image Composition
+      b. 
  
